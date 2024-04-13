@@ -16,6 +16,9 @@ Repository projects and assignments<br>
 [Lab05] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/Lab05.ipynb]<br>
 [Lab06] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/Lab06.ipynb]<br>
 [Lab07] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/Lab07.ipynb]<br>
+[Lab08] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/Lab09.ipynb]<br>
+[Lab09] []<br>
+
 
 
 
