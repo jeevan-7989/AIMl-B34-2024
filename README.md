@@ -7,6 +7,9 @@ Repository projects and assignments<br>
 [Lab05] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/AIML_A5.pdf]<br>
 [Lab06] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/AIML_A6.pdf]<br>
 [Lab07] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/AIML_A7.pdf]<br>
+[Lab08] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/AIML_A8.pdf]<br>
+[Lab09] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/AIML_A9.pdf]<br>
+
 
 # Lab code notebooks <br>
 [Lab01] [https://github.com/jeevan-7989/AIMl-B34-2024/blob/main/Lab01.ipynb]<br>
